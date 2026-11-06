@@ -1,0 +1,6 @@
+{
+  "name": "STEM Motion Lab: Speed Detective",
+  "description": "Interactive Grade 7 STEM educational game for measuring speed (v = d / t) with real-time simulation, digital stopwatch, virtual scratchpad, and gamified challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
